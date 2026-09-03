@@ -1,0 +1,7 @@
+node_modules
+dist
+.DS_Store
+*.local
+
+# Carpeta ajena al prototipo (no generada por este proyecto) — excluida del repo
+/banorte-prototype/
